@@ -1,0 +1,7 @@
+reinforcement learning
+supervised learning
+unsupervised 
+time series data
+policy optimiztion 
+  trpo, pro, dpo
+  
